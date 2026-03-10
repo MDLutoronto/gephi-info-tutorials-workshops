@@ -2,12 +2,14 @@
 title: "Gephi: Information, Tutorials, and Workshops"
 layout: "home"
 description: ""
+created_date: 2022-05-06
+
 permalink: "/"  #! Remove this if not the homepage
 ---
 
 # Gephi: Information, Tutorials, and Workshops
 
-[Gephi](https://gephi.org/) is an open\-source network analysis and visualization program that allows users to analyze and display relationships between individuals, groups, and other entities in a network.
+[Gephi](https://gephi.org/) is an open-source network analysis and visualization program that allows users to analyze and display relationships between individuals, groups, and other entities in a network.
 
 Getting started
 ---------------
@@ -27,8 +29,8 @@ Learning resources
 
 ### Tutorials
 
-* [Visualizing a Network Dataset Using Gephi](https://mdl.library.utoronto.ca/technology/tutorials/visualizing-network-dataset-using-gephi)(covered in the workshop above)
+* [Visualizing a Network Dataset Using Gephi](https://mdl.library.utoronto.ca/technology/tutorials/visualizing-network-dataset-using-gephi) (covered in the workshop above)
 * Creating interactive network diagrams by combining Gephi and Tableau
 	+ [How to Create Network Visualizations in Tableau](https://www.phdata.io/blog/how-to-create-network-visualizations-tableau/)
 
-Technique: [Data Visualization](/technique/data-visualization) \| Tools: [Gephi](/tools/gephi)**Date Created:** 2022\-05\-06**Updated:** 2025\-04\-01
+Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization) | Tools: [Gephi](https://mdl.library.utoronto.ca/tools/gephi)
