@@ -30,7 +30,7 @@ Learning resources
 * [Introduction to Network Analysis and Visualization Using Gephi](https://play.library.utoronto.ca/watch/aeb2d686e5abe625072eb1b85e23846c)
 	+ To follow along with the workshop, please [download the workshop materials](https://maps.library.utoronto.ca/workshops/GephiOnline/WorkshopFiles.zip)
 
-[https://play.library.utoronto.ca/embed/aeb2d686e5abe625072eb1b85e23846c](https://play.library.utoronto.ca/embed/aeb2d686e5abe625072eb1b85e23846c)
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://play.library.utoronto.ca/embed/aeb2d686e5abe625072eb1b85e23846c" width="560">iframe not supported</iframe>
 
 ### Tutorials
 
