@@ -37,5 +37,3 @@ Learning resources
 * [Visualizing a Network Dataset Using Gephi](https://mdl.library.utoronto.ca/technology/tutorials/visualizing-network-dataset-using-gephi) (covered in the workshop above)
 * Creating interactive network diagrams by combining Gephi and Tableau
 	+ [How to Create Network Visualizations in Tableau](https://www.phdata.io/blog/how-to-create-network-visualizations-tableau/)
-
-Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization) | Tools: [Gephi](https://mdl.library.utoronto.ca/tools/gephi)
