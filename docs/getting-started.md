@@ -17,4 +17,4 @@ Getting started
 * You can [download the installation files for Gephi](https://gephi.org/users/download/) for Windows, Mac OS, and Linux
 * Please review the [installation instructions](https://gephi.org/users/install/)
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
