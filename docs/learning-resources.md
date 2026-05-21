@@ -5,10 +5,10 @@ nav_order: 2
 layout: default
 staff:
     - name: Kelly Schultz
-      link: https://library.utoronto.ca/staff/kelly-schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz 
 maintainer:
     - name: Kelly Schultz
-      link: https://library.utoronto.ca/staff/kelly-schultz
+      link: https://library.utoronto.ca/staff/kelly-schultz 
 created_date: 2022-05-06
 ---
 Learning resources
@@ -27,4 +27,4 @@ Learning resources
 * Creating interactive network diagrams by combining Gephi and Tableau
 	+ [How to Create Network Visualizations in Tableau](https://www.phdata.io/blog/how-to-create-network-visualizations-tableau/)
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| Tools: [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization) \| **Tools:** [Gephi](https://mdlutoronto.github.io/tutorials-search/?tool=Gephi)
