@@ -15,7 +15,7 @@ has_children: true
 has_toc: false
 ---
 
-# Gephi: Information, Tutorials, and Workshops
+# Gephi - Information, Tutorials, and Workshops
 
 [Gephi](https://gephi.org/) is an open-source network analysis and visualization program that allows users to analyze and display relationships between individuals, groups, and other entities in a network.
 
