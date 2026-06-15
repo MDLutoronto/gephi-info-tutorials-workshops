@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-parent: Gephi:Information, Tutorials, and Workshops
+parent: Gephi: Information, Tutorials, and Workshops
 nav_order: 1
 layout: default
 staff:

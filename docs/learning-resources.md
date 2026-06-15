@@ -1,6 +1,6 @@
 ---
 title: Learning Resources
-parent: Gephi:Information, Tutorials, and Workshops
+parent: Gephi: Information, Tutorials, and Workshops
 nav_order: 2
 layout: default
 staff:
