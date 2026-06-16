@@ -1,5 +1,5 @@
 ## Site settings
-title: "Gephi - Information, Tutorials, and Workshops"
+title: "Gephi: Information, Tutorials, and Workshops"
 description: "Workshops and guides from the Map & Data Library, University of Toronto"
 url: "https://MDLutoronto.github.io/gephi-info-tutorials-workshops" # change the slug to the repo's name ('jtd-template' in this case)
 repository: "MDLutoronto/gephi-info-tutorials-workshops" # for github-metadata
